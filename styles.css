@@ -1,0 +1,56 @@
+.left
+{
+    position: inherit;
+
+    padding: 40px;
+ }
+.right
+{
+    position: inherit;
+
+    padding: 40px;
+}
+
+.meetpic
+{
+  height:512px;
+  padding: 40px;
+}
+
+.top
+{
+  background-color: #FF4C68;
+}
+
+.middle
+{
+  background-color: #EF8172;
+}
+
+.blah
+{
+  text-align: center;
+  color: #6a5acd;
+}
+
+.cont
+{
+  text-align: center;
+  color: #8c4b99;
+}
+
+.icon
+{
+  position: inherit;
+  color: #8c4b99;
+}
+
+.name
+{
+  color: #55affa;
+}
+
+.namec
+{
+  color:#7ef1e7;
+}
